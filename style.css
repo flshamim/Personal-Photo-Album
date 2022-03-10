@@ -1,6 +1,7 @@
 h3{
-color: rgb(77, 196, 180);
+color: rgb(0, 0, 0);
+text-shadow: 5px 5px 5px rgb(255, 255, 255);
 }
 body{
-    background-color: rgb(250, 242, 242);
+    background-color: rgb(212, 198, 198);
 }
